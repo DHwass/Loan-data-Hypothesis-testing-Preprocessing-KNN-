@@ -1,4 +1,4 @@
-# Loan data (Hypothesis testing/Preprocessing/KNN)
+# Objective
 
 The main goal of this project is to tackle several important tasks. First, we want to answer questions about the data by conducting **hypothesis testing**. This will help us gain meaningful insights and draw conclusions from the information we have.
 
